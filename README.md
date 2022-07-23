@@ -31,4 +31,4 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
      [2,3,4,5,6,7,8,15,9]
      [2,3,4,5,6,7,8,9,15]
      
-     # ( https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje 
+     #  ( www.patika.dev )
