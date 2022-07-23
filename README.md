@@ -14,4 +14,11 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
   # Big O Gösterimi
   #  1 den n kadar olan sayıların toplamı : n.(n+1)/2=n^2+n/2 büyük ifade alınır 
-  #                                         sonuç : O( n^2)
+  #                                          sonuç : O( n^2)
+  # Time Complextiy ( 2 için inceleyelim )
+  # Best Case :   [2,6,16,18,22,27]
+  # Avarage Case: [22,27,16,2,18,6]
+  # Worst Case :  [22,27,16,6,18,2]
+  
+  # [2,6,16,18,22,27] Dizi sıralandıktan sonra 18 sayısı ortada bir yerde yer aldığı için Avarage case kapsamına girer.
+  
