@@ -32,9 +32,7 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
      [2,3,4,5,6,7,8,9,15]
      
      
-     git status
-   
-     
-     [Google Linki](www.patika.dev)
+    
+  [Google Linki](www.patika.dev)
      
      
