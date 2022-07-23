@@ -33,6 +33,6 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
      
      
     
-  [Google Linki](www.patika.dev)
+  (www.patika.dev)
      
      
