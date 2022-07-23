@@ -12,4 +12,6 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
  # [2,6,16,22,18,27]                        =n-2
  # [2,6,16,18,22,27]                        =1
 
- 
+  # Big O Gösterimi
+  #  1 den n kadar olan sayıların toplamı : n.(n+1)/2=n^2+n/2 büyük ifade alınır 
+  #                                         sonuç : O( n^2)
